@@ -21,6 +21,7 @@ BOT_USERNAME = getenv("BOT_USERNAME","PURVI_MUSIC_BOT")
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME")
+API_KEY = "NxGBNexGenBots790d34"
 # ---------------------------------------------------------
 
 
